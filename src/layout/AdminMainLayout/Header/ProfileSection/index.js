@@ -153,7 +153,7 @@ const ProfileSection = () => {
                           Admin
                         </Typography>
                       </Stack>
-                      <Typography variant="subtitle2">Project Royal Magic</Typography>
+                      <Typography variant="subtitle2">Project Digibot</Typography>
                     </Stack>
                   </Box>
                   <Divider />

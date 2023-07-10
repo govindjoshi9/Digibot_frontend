@@ -37,7 +37,7 @@ const Dashboard = () => {
                 <TotalIncomeDarkCard isLoading={isLoading} title={'Total User'} totalUser={user?.totalUser} />
               </Grid>
               <Grid item sm={6} xs={12} md={6} lg={12}>
-                <ActiveCard isLoading={isLoading} title={'Active Table'} teams={user?.totalActiveUser} />
+                <ActiveCard isLoading={isLoading} title={'Active user '} teams={user?.totalActiveUser} />
               </Grid>
             </Grid>
           </Grid>
@@ -93,16 +93,19 @@ const Dashboard = () => {
           </Grid>
         </Grid>
       </Grid>
-      {/* <Grid item xs={12}>
+      <Grid item xs={12}>
         <Grid container spacing={gridSpacing}>
-          <Grid item xs={12} md={8}>
-            <TotalGrowthBarChart isLoading={isLoading} />
+          <Grid item xs={12} md={4}>
+            <ActiveCard isLoading={isLoading} title={'FLEXIBLE BOT '} teams={user?.totalActiveUser} />
           </Grid>
           <Grid item xs={12} md={4}>
-            <PopularCard isLoading={isLoading} />
+            <ActiveCard isLoading={isLoading} title={'FLEXIBLE PRO BOT '} teams={user?.totalActiveUser} />
+          </Grid>
+          <Grid item xs={12} md={4}>
+            <ActiveCard isLoading={isLoading} title={'MEDIUM BOT '} teams={user?.totalActiveUser} />
           </Grid>
         </Grid>
-      </Grid> */}
+      </Grid>
     </Grid>
   );
 };

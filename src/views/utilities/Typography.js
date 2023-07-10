@@ -111,7 +111,7 @@ const Typography = () => (
                 underline="hover"
                 gutterBottom
               >
-                https://Royal-Magicdashboard.io
+                {/* https://Royal-Magicdashboard.io */}
               </MuiTypography>
             </Grid>
           </Grid>

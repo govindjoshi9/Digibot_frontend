@@ -18,6 +18,13 @@ const dashboard = {
       url: '/admin/dashboard',
       icon: icons.IconDashboard,
       breadcrumbs: false
+    },
+    {
+      id: '/bonus',
+      title: 'Daily Bonus',
+      type: 'item',
+      url: '/admin/set-daily-bonus',
+      breadcrumbs: false
     }
   ]
 };

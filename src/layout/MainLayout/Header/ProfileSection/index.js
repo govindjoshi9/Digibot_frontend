@@ -223,7 +223,7 @@ const ProfileSection = () => {
                         </Typography>
                       </Stack>
                       <Typography variant="subtitle2" sx={{ mt: 1 }}>
-                        Project Royal Magic
+                        Project Digibot
                       </Typography>
                     </Stack>
                     <OutlinedInput

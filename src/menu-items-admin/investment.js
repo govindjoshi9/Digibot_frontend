@@ -25,6 +25,20 @@ const investment = {
       type: 'item',
       url: 'admin/invesment/summary',
       breadcrumbs: false
+    },
+    {
+      id: 'Matching-reward',
+      title: 'Matching Bonus',
+      type: 'item',
+      url: 'admin/invesment/summary',
+      breadcrumbs: false
+    },
+    {
+      id: 'Swaping-Bonus',
+      title: 'Swaping Bonus',
+      type: 'item',
+      url: 'admin/invesment/summary',
+      breadcrumbs: false
     }
   ]
 };

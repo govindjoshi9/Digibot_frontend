@@ -19,7 +19,7 @@ export default function QuickFilteringGrid() {
   console.log(columns);
 
   return (
-    <Box sx={{ height: '80vh', width: 1, backgroundColor: 'white'  }}>
+    <Box sx={{ height: '80vh', width: 1, backgroundColor: 'white' }}>
       <DataGrid
         {...data}
         initialState={{
