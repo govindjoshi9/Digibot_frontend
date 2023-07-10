@@ -1,0 +1,156 @@
+Uri: http://13.232.132.38/
+File Name: C:\Downloaded Web Sites\13.232.132.38\index.htm
+Content Type: text/html
+
+Uri: http://13.232.132.38/contactUs.html
+File Name: C:\Downloaded Web Sites\13.232.132.38\contactUs.html
+Content Type: text/html
+
+Uri: http://13.232.132.38/css/animation.css
+File Name: C:\Downloaded Web Sites\13.232.132.38\css (1)\animation.css
+Content Type: text/css
+
+Uri: http://13.232.132.38/css/dark.css
+File Name: C:\Downloaded Web Sites\13.232.132.38\css (1)\dark.css
+Content Type: text/css
+
+Uri: http://13.232.132.38/css/flipclock.css
+File Name: C:\Downloaded Web Sites\13.232.132.38\css (1)\flipclock.css
+Content Type: text/css
+
+Uri: http://13.232.132.38/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\13.232.132.38\css (1)\owl.carousel.min.css
+Content Type: text/css
+
+Uri: http://13.232.132.38/css/owl.theme.default.min.css
+File Name: C:\Downloaded Web Sites\13.232.132.38\css (1)\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: http://13.232.132.38/images/checkout-illustration.jpg
+File Name: C:\Downloaded Web Sites\13.232.132.38\images\checkout-illustration.jpg
+Content Type: image/jpeg
+
+Uri: http://13.232.132.38/images/facebook-icon.svg
+File Name: C:\Downloaded Web Sites\13.232.132.38\images\facebook-icon.svg
+Content Type: image/svg+xml
+
+Uri: http://13.232.132.38/images/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\13.232.132.38\images\favicon-32x32.png
+Content Type: image/png
+
+Uri: http://13.232.132.38/images/feature-one.svg
+File Name: C:\Downloaded Web Sites\13.232.132.38\images\feature-one.svg
+Content Type: image/svg+xml
+
+Uri: http://13.232.132.38/images/feature-three.svg
+File Name: C:\Downloaded Web Sites\13.232.132.38\images\feature-three.svg
+Content Type: image/svg+xml
+
+Uri: http://13.232.132.38/images/feature-two.svg
+File Name: C:\Downloaded Web Sites\13.232.132.38\images\feature-two.svg
+Content Type: image/svg+xml
+
+Uri: http://13.232.132.38/images/footer_logo.svg
+File Name: C:\Downloaded Web Sites\13.232.132.38\images\footer_logo.svg
+Content Type: image/svg+xml
+
+Uri: http://13.232.132.38/images/github-icon.svg
+File Name: C:\Downloaded Web Sites\13.232.132.38\images\github-icon.svg
+Content Type: image/svg+xml
+
+Uri: http://13.232.132.38/images/graph-dark.svg
+File Name: C:\Downloaded Web Sites\13.232.132.38\images\graph-dark.svg
+Content Type: image/svg+xml
+
+Uri: http://13.232.132.38/images/linked-in-icon.svg
+File Name: C:\Downloaded Web Sites\13.232.132.38\images\linked-in-icon.svg
+Content Type: image/svg+xml
+
+Uri: http://13.232.132.38/images/logo.png
+File Name: C:\Downloaded Web Sites\13.232.132.38\images\logo.png
+Content Type: image/png
+
+Uri: http://13.232.132.38/images/logo_1_light.png
+File Name: C:\Downloaded Web Sites\13.232.132.38\images\logo_1_light.png
+Content Type: image/png
+
+Uri: http://13.232.132.38/images/logo_2_light.png
+File Name: C:\Downloaded Web Sites\13.232.132.38\images\logo_2_light.png
+Content Type: image/png
+
+Uri: http://13.232.132.38/images/logo_3_light.png
+File Name: C:\Downloaded Web Sites\13.232.132.38\images\logo_3_light.png
+Content Type: image/png
+
+Uri: http://13.232.132.38/images/logo_4_light.png
+File Name: C:\Downloaded Web Sites\13.232.132.38\images\logo_4_light.png
+Content Type: image/png
+
+Uri: http://13.232.132.38/images/logo_5_light.png
+File Name: C:\Downloaded Web Sites\13.232.132.38\images\logo_5_light.png
+Content Type: image/png
+
+Uri: http://13.232.132.38/images/right-arrow.svg
+File Name: C:\Downloaded Web Sites\13.232.132.38\images\right-arrow.svg
+Content Type: image/svg+xml
+
+Uri: http://13.232.132.38/images/team_1.jpg
+File Name: C:\Downloaded Web Sites\13.232.132.38\images\team_1.jpg
+Content Type: image/jpeg
+
+Uri: http://13.232.132.38/images/team_2.jpg
+File Name: C:\Downloaded Web Sites\13.232.132.38\images\team_2.jpg
+Content Type: image/jpeg
+
+Uri: http://13.232.132.38/images/team_3.jpg
+File Name: C:\Downloaded Web Sites\13.232.132.38\images\team_3.jpg
+Content Type: image/jpeg
+
+Uri: http://13.232.132.38/images/team_4.jpg
+File Name: C:\Downloaded Web Sites\13.232.132.38\images\team_4.jpg
+Content Type: image/jpeg
+
+Uri: http://13.232.132.38/images/twitter-icon.svg
+File Name: C:\Downloaded Web Sites\13.232.132.38\images\twitter-icon.svg
+Content Type: image/svg+xml
+
+Uri: http://13.232.132.38/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\13.232.132.38\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: http://13.232.132.38/js/jquery-3.3.1.slim.min.js
+File Name: C:\Downloaded Web Sites\13.232.132.38\js\jquery-3.3.1.slim.min.js
+Content Type: application/javascript
+
+Uri: http://13.232.132.38/js/plugins/chart.min.js
+File Name: C:\Downloaded Web Sites\13.232.132.38\js\plugins\chart.min.js
+Content Type: application/javascript
+
+Uri: http://13.232.132.38/js/plugins/flipclock.min.js
+File Name: C:\Downloaded Web Sites\13.232.132.38\js\plugins\flipclock.min.js
+Content Type: application/javascript
+
+Uri: http://13.232.132.38/js/plugins/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\13.232.132.38\js\plugins\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://13.232.132.38/js/script.js
+File Name: C:\Downloaded Web Sites\13.232.132.38\js\script.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:300,400,700
+File Name: C:\Downloaded Web Sites\13.232.132.38\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\13.232.132.38\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\13.232.132.38\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\13.232.132.38\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
