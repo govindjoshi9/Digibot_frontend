@@ -4,12 +4,13 @@ import utilities from './utilities';
 
 import investment from './investment';
 import withdraw from './withdraw';
-import Bot from './Bot.js';
+import rewards from './rewards.js';
+import setting from './setting.js';
 
 // ==============================|| MENU ITEMS ||============================== //
 
 const menuItems = {
-  items: [dashboard, utilities, Bot, investment, withdraw]
+  items: [dashboard, utilities, rewards, setting, investment, withdraw]
 };
 
 export default menuItems;

@@ -57,6 +57,12 @@ export default function BlockUsers() {
       headerName: 'Wallet Amount',
       sortable: false,
       width: 160
+    },
+    {
+      field: 'Bot-type',
+      headerName: 'Bot-type',
+      sortable: false,
+      width: 160
     }
   ];
 

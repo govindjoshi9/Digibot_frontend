@@ -13,35 +13,21 @@
 
 // ==============================||BOT MENU ITEMS ||============================== //
 
-const Bot = {
+const rewards = {
   id: 'utilities',
   type: 'group',
-  title: 'Bot Typs',
+  title: 'Rewards',
   children: [
     {
-      id: 'flexible-bot',
-      title: 'Flexible Bot',
+      id: 'Monthly-rewards',
+      title: 'Monthly Rewards',
       type: 'item',
       url: 'admin/user/active',
       breadcrumbs: false
     },
     {
-      id: 'flexible-pro-bot',
-      title: 'Flexible Pro Bot',
-      type: 'item',
-      url: 'admin/user/active',
-      breadcrumbs: false
-    },
-    {
-      id: 'medium-bot',
-      title: 'Medium Bot',
-      type: 'item',
-      url: 'admin/user/active',
-      breadcrumbs: false
-    },
-    {
-      id: 'premium-bot',
-      title: 'Premium Bot',
+      id: 'Daily-rewards',
+      title: 'Daily Rewards',
       type: 'item',
       url: 'admin/user/active',
       breadcrumbs: false
@@ -49,4 +35,4 @@ const Bot = {
   ]
 };
 
-export default Bot;
+export default rewards;

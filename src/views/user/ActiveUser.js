@@ -57,6 +57,12 @@ export default function ActiveUsers() {
       headerName: 'Topup Amount',
       sortable: false,
       width: 160
+    },
+    {
+      field: 'Bot-type',
+      headerName: 'Bot-type',
+      sortable: false,
+      width: 160
     }
   ];
 

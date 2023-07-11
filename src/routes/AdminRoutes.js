@@ -15,7 +15,7 @@ const UtilsColor = Loadable(lazy(() => import('views/utilities/Color')));
 const UtilsShadow = Loadable(lazy(() => import('views/utilities/Shadow')));
 const UtilsMaterialIcons = Loadable(lazy(() => import('views/utilities/MaterialIcons')));
 const UtilsTablerIcons = Loadable(lazy(() => import('views/utilities/TablerIcons')));
-const DailyBonus = Loadable(lazy(() => import('views/dashboard/DailyIncomeSet')));
+const DailyBonuse = Loadable(lazy(() => import('views/dashboard/SetdailyIncome')));
 const WithdrawRequest = Loadable(lazy(() => import('views/withdraw/withdrawRequest')));
 const ConfirmWithdrawRequest = Loadable(lazy(() => import('views/withdraw/ConfirmWithRequest')));
 const Withdraw = Loadable(lazy(() => import('views/withdraw/WithdrawHistory')));
@@ -43,7 +43,7 @@ const MainRoutes = {
     },
     {
       path: '/admin/set-daily-bonus',
-      element: <DailyBonus />
+      element: <DailyBonuse />
     },
     {
       path: 'admin/user',
