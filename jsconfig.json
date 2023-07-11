@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "baseUrl": "."
+  },
+  "include": [
+    "src/**/*"
+, "src/components/_dashboard/general-app/TotalBonus.js", "src/components/_dashboard/general-booking/.js", "src/components/_dashboard/general-ecommerce/AchivePositions.js"  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
