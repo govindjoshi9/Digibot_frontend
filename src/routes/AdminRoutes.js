@@ -11,6 +11,10 @@ const ActiveUser = Loadable(lazy(() => import('views/user/ActiveUser')));
 const InactiveUser = Loadable(lazy(() => import('views/user/InactiveUser')));
 const BlockUser = Loadable(lazy(() => import('views/user/BlockUser')));
 const SearchUser = Loadable(lazy(() => import('views/user/SearchUser')));
+
+const Monthly = Loadable(lazy(() => import('views/Rewards/Monthly')));
+const Dailyrewards = Loadable(lazy(() => import('views/Rewards/DailyRewards')));
+
 const UtilsColor = Loadable(lazy(() => import('views/utilities/Color')));
 const UtilsShadow = Loadable(lazy(() => import('views/utilities/Shadow')));
 const UtilsMaterialIcons = Loadable(lazy(() => import('views/utilities/MaterialIcons')));
@@ -64,6 +68,20 @@ const MainRoutes = {
           path: 'search-user',
           element: <SearchUser />
         }
+      ]
+    },
+    {
+      path: 'admin/rewards',
+      children: [
+        {
+          path: 'Monthly',
+          element: <Monthly />
+        },
+        {
+          path: 'dailyrewards',
+          element: <Dailyrewards />
+        }
+        
       ]
     },
     {

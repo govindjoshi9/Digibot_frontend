@@ -33,9 +33,9 @@ export default function QuickFilteringGrid() {
         id: 1,
         date: '20-5-2023',
         memberUserId: '6873419',
-        memberName: 'X PIC',
+        memberName: 'User23',
         walletAddres: '0x54554fhef0dfg',
-        requestAmount: 8000
+        walletAmount: 2000
       }
     ]
   };

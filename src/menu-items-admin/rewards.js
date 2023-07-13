@@ -22,14 +22,14 @@ const rewards = {
       id: 'Monthly-rewards',
       title: 'Monthly Rewards',
       type: 'item',
-      url: 'admin/user/active',
+      url: 'admin/rewards/Monthly',
       breadcrumbs: false
     },
     {
       id: 'Daily-rewards',
       title: 'Daily Rewards',
       type: 'item',
-      url: 'admin/user/active',
+      url: 'admin/rewards/Dailyrewards',
       breadcrumbs: false
     }
   ]
