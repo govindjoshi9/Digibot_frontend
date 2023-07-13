@@ -1,8 +1,8 @@
 {
-  "name": "Royal-Magic",
+  "name": "Digibot",
   "version": "3.3.2",
   "private": true,
-  "homepage": "https://Royal-Magicdashboard.io/",
+  "homepage": "https://digibotdashboard.io/",
   "dependencies": {
     "@emotion/cache": "^11.9.3",
     "@emotion/react": "^11.9.3",

@@ -18,6 +18,7 @@ export default function ActiveUsers() {
           contact: item.contact,
           email: item.email,
           topup_amount: item.topup_amount
+          
         }));
         setRows(mappedData);
       }

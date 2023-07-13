@@ -22,7 +22,7 @@ const other = {
       id: 'documentation',
       title: 'Documentation',
       type: 'item',
-      url: 'https://codedthemes.gitbook.io/Royal-Magic/',
+      url: 'https://codedthemes.gitbook.io/Digibot/',
       icon: icons.IconHelp,
       external: true,
       target: true

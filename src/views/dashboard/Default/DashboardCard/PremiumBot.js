@@ -40,7 +40,7 @@ const CardWrapper = styled(MainCard)(({ theme }) => ({
 
 // ==============================|| DASHBOARD - TOTAL INCOME LIGHT CARD ||============================== //
 
-const Flexibotpro = ({ isLoading, title, teams }) => {
+const PremiumBot = ({ isLoading, title, teams }) => {
   const theme = useTheme();
 
   return (
@@ -86,10 +86,10 @@ const Flexibotpro = ({ isLoading, title, teams }) => {
   );
 };
 
-Flexibot.propTypes = {
+PremiumBot.propTypes = {
   isLoading: PropTypes.bool,
   title: PropTypes.string,
   teams: PropTypes.number
 };
 
-export default Flexibot;
+export default PremiumBot;

@@ -22,7 +22,7 @@ const Logo = () => {
      *
      */
     <div style={{ display: 'flex', alignItems: 'center' }}>
-      {/* <img src={logo} alt="Royal-Magic" width="160" /> */}
+      {/* <img src={logo} alt="Digibot" width="160" /> */}
       <h2>Digibot</h2>
     </div>
     // <svg width="92" height="32" viewBox="0 0 92 32" fill="none" xmlns="http://www.w3.org/2000/svg">

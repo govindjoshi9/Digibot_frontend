@@ -105,13 +105,13 @@ const Typography = () => (
                 variant="body2"
                 color="primary"
                 component={Link}
-                href="https://Royal-Magicdashboard.io"
+                href="https://Digibotdashboard.io"
                 target="_blank"
                 display="block"
                 underline="hover"
                 gutterBottom
               >
-                {/* https://Royal-Magicdashboard.io */}
+                {/* https://Digibotdashboard.io */}
               </MuiTypography>
             </Grid>
           </Grid>
